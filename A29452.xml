@@ -1,0 +1,427 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A brief exposition of our Lords Prayer shewing that through ignorance and the wickedness of their own hearts, those that use it most, doth abuse and prophane it most, and pray against themselves that instead of a blessing, they draw down a curse upon themselves.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 44 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A29452</idno>
+            <idno type="STC">Wing B4592A</idno>
+            <idno type="STC">ESTC R214138</idno>
+            <idno type="EEBO-CITATION">99826350</idno>
+            <idno type="PROQUEST">99826350</idno>
+            <idno type="VID">30751</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A29452)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 30751)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1826:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A brief exposition of our Lords Prayer shewing that through ignorance and the wickedness of their own hearts, those that use it most, doth abuse and prophane it most, and pray against themselves that instead of a blessing, they draw down a curse upon themselves.</title>
+               </titleStmt>
+               <extent>15, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>ca. 1680]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Lord's prayer --  Commentaries --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-10</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:30751:1" rendition="simple:additions"/>
+            <head>A brief expoſition of our Lords Prayer.</head>
+            <head type="sub">Shewing That through ignorance and the wickedneſs of their own hearts, thoſe that uſe it moſt, doth abuſe and prophane it moſt, and pray againſt them<g ref="char:EOLhyphen"/>ſelves that inſtead of a bleſſing, they draw down a curſe upon themſelves.</head>
+            <epigraph>
+               <q>
+                  <p>After this manner therefore pray ye,</p>
+                  <bibl>
+                     <hi>Mat.</hi> 6.9.</bibl>
+               </q>
+            </epigraph>
+            <div type="part">
+               <head>Our Father which art in Heaven.</head>
+               <p>TH<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſe words are the Preface to the Prayer, now Prayer is to put up our requeſts to God according to his word with contrite hearts in the Name of Jeſus Chriſt with aſſurance of Faith to be heard,<note place="margin">what it is to pray.</note> in what we call upon him for according to his will, 1 <hi>John</hi> 15.4. Firſt, then we muſt pray to God alone, and invocation and faith muſt go together. <hi>2dly.</hi> We muſt pray in knowledge according to Gods word, otherwiſe our prayers of ignorance will but prove to be a mocking of God and diſhonour to him, for the voice and utterance, whether it be in reading a prayer or otherwiſe it is no part of the prayer, but an outward means whereby prayer is uttered, and expreſſed, therefore if faith and the ſpirit of grace in prayer be wanting, it cannot be a prayer acceptable to God<g ref="char:punc">▪</g> for the ordinary prayers of men, for form and faſhion ſake, do grievouſly offend and diſpleaſe God, becauſe without faith it is impoſſible to pleaſe him, <hi>Heb.</hi> 11.6.</p>
+               <p>Our Father, this teacheth to whom we muſt pray; namely to God onely, and not to Saints nor Angels, and we are to pray not only for our ſelves, but alſo for our brethren, yea for our enemies as they are men, <hi>bleſs them that cauſe you, and pray for th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>m that perſecute you, Mat.</hi> 5.44 Yet we may pray againſt their ſins and wicked counſels, and in our prayers we muſt bring love to men, and faith toward God, or elſe how can a man call God father, if ye have not ſome aſſurance by faith, that he is Gods child, and his Father in Chriſt.</p>
+               <p n="2">
+                  <hi>2dly.</hi> If God to whom we pray be in Heaven then this teacheth us to pray with Heavenly and reverent affections, which muſt appear in the holineſs of our thoughts, and comelineſs of our geſtures, and all wandring thoughts and vain bab<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ing ſhould be avoided, and our hearts in prayer ſhall be lift<g ref="char:EOLhyphen"/>ed up to God in Heaven to pray for Heavenly things, and to believe that
+<pb n="2" facs="tcp:30751:2"/>God is not only able but alſo willing to grant our requeſts for ſuch things as God hath promiſed to give.</p>
+            </div>
+            <div type="part">
+               <head>The firſt petition, Hallowed be thy Mame.</head>
+               <p>The three firſt petitions concern God, the three laſt concerns us, the firſt concerns Gods Glor<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, the other two the means whereby Gods glory is man<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>feſt <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mong men <hi>For whether we eat or drink or whatſoever we do, we ſh<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>uld do <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ll in the <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> of G<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d,</hi> 1 <hi>Cor.</hi> 10 31. Here you ſee in this text, that the glory o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> God ſh<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uld be the end and aim of all our actions, and Gods name is glor<gap reason="illegible" resp="#UOM" extent="2+ letters">
+                     <desc>••…</desc>
+                  </gap>ed <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mong men<g ref="char:punc">▪</g> when his Kingdom is erected and ſet up in mens hearts and <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>s, and his will done by them, this is the firſt petition, and it teacheth us to prefer Gods glory before all other things in the world.</p>
+               <p>A thing is hallowed when it is ſet apart to an holy uſe, as the Temple was,<note place="margin">What is it to hallow a thing</note> and the Prieſts were ſanctified and ſet apart to the ſervice of God, ſo Gods name is hallowed when it is uſed with reverence and Godly fear, and therefore ought not to be uſed in form, or for faſhion or cuſtome in prayer, or any other way erreverently.</p>
+            </div>
+            <div type="part">
+               <head>The ſecond petiton, Thy Will be done.</head>
+               <p>This petition depends on the former, for in this is laid down the means how Gods name muſt be hallowed and glorified among men, and that is done when Gods Kingdom, his ordinances, and worſhip, is erected and ſet up in the hearts and lives and converſations of men,<note place="margin">What it is to glorifie God.</note> for we cannot glorifie God, until he rule in our hearts, by his word and ſpirit, and then by believing on him, and yeilding obedience unto him and to his word, and praiſing him for beſtowing theſe and ſuch like merci<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s upon us. God is glorified, as in Pſalm 50.23. <hi>Whoſo offereth me praiſe, glorifieth me, and to him that ordereth his converfation aright, will I ſhew the ſalvation of God:</hi>
+               </p>
+               <p>By Kingdom in this petition is meant the adminiſtration of Chriſts Ordi<g ref="char:EOLhyphen"/>nances, and Laws in his Church, which is his Kingdom, as he is the Sove<g ref="char:EOLhyphen"/>raign King and Head of his Church and Kingdom, whereby he rules, orders and frames the hearts of men, by his word and ſpirit, to the ſubjection and obedience of his word and will, for as in a Kingdom, there muſt be a King, and there muſt be Subjects, and there muſt be Laws, whereby the Subjects muſt be ruled and governed.</p>
+               <pb n="3" facs="tcp:30751:2"/>
+               <p>And ſo it is here in Chriſts Kingdom the Church, Chriſt is the ſupream King and Head of his Church, and the Scriptures of the Old, but eſpecially of the New Teſtament, are the Laws of Chriſts Kingdom, asd believers are the Subjects of Chriſts Kingdom,<note place="margin">To whoſe Laws we ought to ſubmit, whether to the right King or to Traytors.</note> and as he is a Traytor and an Uſurper that in any Kingdom preſumes to make Laws for the Government of the Kings Subjects, other then the King hath made and eſtabliſhed, and compel the Kings Subjects by penalties to ſubmit unto them, ſo are they Traytors to Chriſt, and Uſur<g ref="char:EOLhyphen"/>pers of his authority, who dare preſume to make Laws for the Government of Chriſts Subjects, believers (other then Chriſt hath made &amp; recorded in his word, and to indeavour by fines, impriſonment or baniſhment, to compel Chriſts Subject<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> believers to ſubmit unto them, for ſubjection to God only muſt be yeilded, in giving ſubjection to Gods word which is the Laws of his Kingdom, but no word of God requireth us to yei<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d ſubjection to the Laws, Ceremonies and Traditions of Popes and Prelates, but to the Laws of God only.</p>
+               <p>Of this Kingdom of Chriſt which is his Church of be<g ref="char:EOLhyphen"/>lievers all men are not,<note place="margin">The difference to know Chriſts Sub<g ref="char:EOLhyphen"/>jects from Anti-Chriſts.</note> but only thoſe who are ſubject to Chriſt, and obedient to his Laws, and ruled by his au<g ref="char:EOLhyphen"/>thority according to his word, for thoſe that chuſe to l<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ve at liberty, after the Laws of Popes and Prelates inventi<g ref="char:EOLhyphen"/>ons, and not after the word of God, they are no true nor faithful Subjects of the Kingdom of God, for Gods Kingdom which we pray for doth come, when Gods Laws and Inſtitutions doth take place, and not the Laws of mens deviſing, for he that obſerves and obeys the Laws and Traditions of Popes or Prelates, more, or rather then the rules and inſtitutions of Chriſt, he breaks the fifth Commandement, of honouring God as our Father in Chriſt, and all ſuch pray againſt themſelves, becauſe they indeavour not to practice<g ref="char:punc">▪</g> as they pray, but quite contrary.</p>
+               <p>The Scriber and Phariſees were condemned for laying the burthen of their Traditions upon men, as means of Gods worſhip, and binding conſci<g ref="char:EOLhyphen"/>ence, <hi>Ma<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi> 23 4 the power of the Church is nothing, but a Miniſtry or Ser<g ref="char:EOLhyphen"/>vice whereby they publiſh and pronounce according to Gods word, what Chriſt bindeth and looſeth, and not what they can bind and looſe by their pretended uſurpation, for Eccleſiaſtical Laws, and Tra<g ref="char:EOLhyphen"/>ditions as they are called doth not ſtand in the autho<g ref="char:EOLhyphen"/>rity and pleaſure of men, no nor of councels,<note place="margin">No Law is of force to bind con<g ref="char:EOLhyphen"/>ſcience, but as is is agreeable to the word of God.</note> but in the
+<pb n="4" facs="tcp:30751:3"/>conſent and agreement which they have with the Scripture, and all ſuch as have rule or Government, in Church, State or Family, they muſt not rule according to their will and pleaſure, but in the Lord and for the Lord, ac<g ref="char:EOLhyphen"/>cording to the word of God, doing hom g<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>and <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eildi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>g obedience to their Head and King Chriſt Jeſus, and every on<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> inde<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>vour to rule as a King over his own thoughts, will and <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ff<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ctions, by Gods word and ſpirit, <hi>Rev.</hi> 1.6. and <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hos to live unto God in me<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s ſeveral places is to have Gods Kingdom to com<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>; and to be erect d and ſet up among men, when Chriſt alone is ex<g ref="char:EOLhyphen"/>alted accor<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ing as we pray.</p>
+               <p>For this Kingdom is nor meant of Gods abſolute Kingly power, whereby he immediately of himſelf ruleth all things in Heaven and Earth, but as is ſaid before it is meant of the ſetting up of his Laws and O dinances in the Church, the Kingdom of Grace here on Earth in the hearts of man, the outward means thereof, as the preaching of the word, &amp; the adminiſtration of the Sacraments,<note place="margin">The Devil and e<g ref="char:EOLhyphen"/>vil inſtruments, hinder the ſetting up of Chriſts King<g ref="char:EOLhyphen"/>dom.</note> which is &amp; may be hindred from exerciſing of them in their purity accord<g ref="char:EOLhyphen"/>ing to Chriſts inſtitutions, by the Devil, the Pope, and other Prelates, who will not ſuffer Chriſts miniſters, to miniſter his Ordinances according to the word of God, except they mingle mens deviſed Ceremoni<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> and Tra<g ref="char:EOLhyphen"/>ditions with the Laws and inſtitutions of Chriſt, and thus at this time, the co<g ref="char:EOLhyphen"/>ming or ſetting up of Gods Kingdom in the hearts of men is hindred as much as they can, though they Hi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>orri<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ically pray that his Kingdom may come &amp; he advanced, and therefore it behoves all that are of Gods Kingdom the true Church, to pray to God without ceaſing to remove all blocks and impedi<g ref="char:EOLhyphen"/>ments out of the way, that his Kingdom may come, and his Will may be dome.</p>
+            </div>
+            <div type="part">
+               <head>The third Petition, Thy Will be done in Earth as it is in Heaven.</head>
+               <p>In the former petition we pray that God-Kingdom may come, that he may Reign &amp; Rule in our hearts by faith, &amp; if he muſt Reign th<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> we muſt be his Subjects, and obey his Laws and do his Will, and his Will muſt be done, by denying our ſelves, and our own carnal wiſdom, and all humain inventions in a deviſed outward form<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lity of will-worſhip, for all is will-worſhip that is not according to the perfect and accepta<g ref="char:EOLhyphen"/>ble will of God,<note place="margin">VVill worſhip for<g ref="char:EOLhyphen"/>bidden.</note> it is utterly condemned, <hi>Rom.</hi> 12.1.2. Yea even all the Comm<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ndements and Doctrines of men; though they have never ſo great a ſhew of holineſs and humility in their wil<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> worſhip it muſt periſh, and will not avail the worſhip<g ref="char:EOLhyphen"/>pers
+<pb n="5" facs="tcp:30751:3"/>os <hi>Col</hi> 2.22.23. Here in theſe two Texts all voluntary Religion is condemned, therefore nothing may go under the name of Gods worſhip, but that which he hath preſcribed in his word, <hi>Deu.</hi> 12.31.32. For the rule of divine worſhip, is not the will of him that worſhippeth, but the will of him that is worſhipped, therefore to worſhip after the precepts of m<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n is deteſtable and vain, <hi>for Gods a Spirit, and they that worſhip God, moſt worſhip him in Spirit and in truth, for our father to whom we pray, ſeeketh ſuch to worſhip him. John</hi> 4 23.24.</p>
+               <p>For mans in <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n<gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>n doth not make Gods worſhip, but Gods will reveal<g ref="char:EOLhyphen"/>ed in his word, for <hi>
+                     <gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>aal</hi> in Iſrael was ſome time worſhip<g ref="char:EOLhyphen"/>ped as the true God, if we reſpect the intention of men,<note place="margin">The intention of men doth no make the VVorſhip of God.</note> therefore mens intentions in worſhipping by Ceremo<g ref="char:EOLhyphen"/>nies and Traditions, of there own deviſing is no part of the worſhip of God, and therefore we pray, thy will be done in Earth, by us men, as thy Saints and Angels do thy will in Heaven, and they do Gods will, willingly chearfully and readi<g ref="char:EOLhyphen"/>ly, and his will only, and not the wiles nor Ceremonies of men, neither ſhould we, but the will of God only, for ſo we pray that we may do the will of God in Earth, as the Saints and Angels do it in Heaven, now to pray that we may have grace given us to worſhip God, with that integrity and willingneſs that Saints and Angels do, and after ſo praying to worſhip him after the precepts of men, it is meer Hipocriſie, and praying againſt our ſelves, and a mocking of God, openly declaring that we will not have Chriſt to Reign over us, nor take him for to be King and Governour of his Church nor ſubmit to his Laws, like <hi>Johanan</hi> and the reſt of Captains and people, that ſent the Prophet <hi>Jeremias</hi> to inquire of the Lord for them, but they reſolved before that whatſoever the Lord ſaid by the Prophet, they would do after their own devices. <hi>Jer.</hi> 42. and like the Idolaters who ſaid to <hi>Jeremias, as for the word which thou haſt ſpoken to us in the Name of the Lord, we will not heark in unto thee here.</hi>
+               </p>
+               <p>Mr. <hi>Perkins</hi> on the negative part of the ſecond Commandment he ſaith that will worſhip, is to worſhip God with a naked and bare good intention as in <hi>Col.</hi> 
+                  <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 22.23. and ſo <hi>Sauls</hi> burnt-offering was a will worſhip, for which <hi>Samuel</hi> told him he had done fooliſhly in not keeping the Command<g ref="char:EOLhyphen"/>ment of the Lord, wherefore, the Kingdom ſhould not continue with him, 1 <hi>Sam.</hi> 13.9. to 14. he alſo faith that holy days and ſome ſorts of apparrel, geſtures, Ceremonies, altars, temporary prayers, Conſort in Church, Muſick in divine Service, feeding the ear,<note place="margin">The Negativ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> part of the ſecond commud<gap reason="illegible" resp="#UOM" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>
+                  </note> and not edifying the
+<pb n="6" facs="tcp:30751:4"/>mind, giving God a painted ſhew of worſhip, without the ſincerity of the heart, to ſeek the pomp and glory of the world, to be more forward to ob<g ref="char:EOLhyphen"/>ſerve Traditions then the Law of God, to corrupt Gods worſhip ordained for his Church, by detracting or adding any thing to Chriſts Inſtitutions, as Ceremonies or Traditions all theſe and the like he ſaith are forbidden in the ſecond Commandement, for they are but Images to worſhip God by them, for we may not obtrude any thing in Gods worſhip, which Chriſt himſelf hath not ordained and appointed as a part of his worſhip, for after the pub<g ref="char:EOLhyphen"/>liſhing of the Goſpel, the Ceremonies of the Jews Church, though formerly commanded, yet now became unlawful, and ſo ſhall con<g ref="char:EOLhyphen"/>tinue to the end of the world,<note place="margin">There is no new inſtitution of Ce<g ref="char:EOLhyphen"/>remonies in the Goſpel.</note> and there is no new inſti<g ref="char:EOLhyphen"/>tution ſince neither of any of them, nor any other Tradi<g ref="char:EOLhyphen"/>tions or Ceremonies in the New Teſtament of Jeſus Chriſt, nor no command of God, that Popes or Prelates ſhould ſuſpend Goſpel Miniſters for not uſing them, there<g ref="char:EOLhyphen"/>fore they ought not to be impoſed upon any, for they are no part of Gods inſtituted worſhip, nor ſerve any way as a help, but rather are a hinderance to his worſhip, therefore the Church, that is believers ſhould not be burthe<g ref="char:EOLhyphen"/>ned with them, for <hi>Bernard</hi> ſaith, that only elect believers are the Church, thus it is evident that the coming of Gods Kingdom, and the doing of Gods will is hindred by the Comandments and preſcriptions of men, for none but Chriſt can perform the duty of an head unto his Church, to govern it, and to preſcribe Laws to bind Conſcience.</p>
+               <p>We ſhould ſtrive with all our might to do the will of God, according as he hath revealed his will in his word and to this end, we ſhould pray hearti<g ref="char:EOLhyphen"/>ly that we may know what that good, <hi>that acceptable and perfect will of God is. Rom.</hi> 12.2. <hi>For the ſoul to be without knowledge it is not good. Prov.</hi> 19.2. For ignorance of Gods will or diſſobedience to his will, is infallible takens of them that have neither fellowſhip with Chriſt, nor with the members of Chriſt, we pray that Gods will may be done but how can a man do the will of God, if he be ignorant of what the will of God is, and yet ignorance will not excuſe any man, Chriſt told the Sadduce<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>ye<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> do <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rre not knowing the Scriptures, Math.</hi> 22.29.<note place="margin">ignorance is no excuſe.</note> And the Scribes and Phariſes who knew much of the Scriptures but like our Doctors ſtood to much upon their traditi<g ref="char:EOLhyphen"/>ons and cerimonies, Chriſt told them that <hi>in vain do y<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> worſhip <gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>e <gap reason="illegible" resp="#UOM" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>ching for doctrines the Commandments of men, that they might keep their own traditions, Mark,</hi> 7.7. But this is not the way to do the will of God, according as we pray, and yet the Phariſes for all the woes that Chriſt pronounced
+<pb n="7" facs="tcp:30751:4"/>againſt them, were mor to be excuſed then our Doctors, for they had not then the Goſpel,<note place="margin">To ſin againſt knowledge is a grievous ſin.</note> nor our Lords Prayer written for their direction, as now our Doctors have, and if ſo many woes were the juſt due of the Scribes and Phariſes that had not the means of knowledge that now we have, what woes belongs to them that now under greater Goſpel light do the ſame that the Scribes and Phariſes did, that pray for one thing, and do the quite contrary in preſumption.</p>
+               <p>Make not then the word of God of none effect by your traditions and Cerimonies, let Gods Kingdom be ſet up in the purity of his ordinances, and let his wi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l be done in earth as it is in Heaven, according as you pray, or elſe you pray againſt your ſelves, for if God be God obey and worſhip him according to his will revealed in his word,<note place="margin">E<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ther let Chriſts Kingdom be ſet up or Ant<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>chriſts.</note> as you pray, and that without adding, or di<g ref="char:EOLhyphen"/>mi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iſhing, but if Antichriſt be God obey him and ſo you may make a hotch potch of Religion, and mix the word of God and his traditions and cerimonies together, but know this, that Chriſt will have no partner, for he trod the Wine preſs of Gods wrath alone, and in all the world there was none to help him, <hi>Iſ.</hi> 63.3. And ſo he will govern his Church alone, by his own Laws, and inſtitutions without the help of of Pope Cardinal or Prelate to joyn their Laws with his, this was hinted at in the Law, <hi>Lev.</hi> 16.19. <hi>Ye ſhall keep my Statutes, thou ſhalt not let thy Cattle gender with a divers kind, thou ſhalt not ſow thy field with mingled ſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ed, neither ſhal a garment mingled of linnen and wollen come upon thee, and thou ſhalt not plow with one Ox and an Aſſe together, Deut.</hi> 22.10. God did teach them by theſe expreſſions, that they ſhould not be double hearted in Religion, to have one heart for God and another heart for Idols, neither would he have us to have one heart for God, and another for Antichriſt, to give our hearts partly to Gods Laws, and partly to Cerimonies and Tra<g ref="char:EOLhyphen"/>ditions of men.</p>
+            </div>
+            <div type="part">
+               <head>The fourth Petition, Give us this day our daily bread.</head>
+               <p>By Bread we underſtand all things, whereby temperall life is preſerved, which we are not to ask abſolutely but conditionally with ſubmiſſion to Gods wi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l, and to be content with what God is pleaſed to give us be it little or much, as may be for his glory the building up of his Kingdom in us, and enabling us to do his will, and his will is partly done, by our depending on his providence for the things of this life, and depending on his mercy for the pardon of our ſins, and by depending on his power for the reſiſting of temptations.</p>
+               <pb n="8" facs="tcp:30751:5"/>
+               <p>It is cal<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed our Bread becauſe in Chriſt all things are theirs who believe in Chriſt, 1 <hi>Cor.</hi> 3.22. All are yours and ye are Chriſts and Chriſt is Gods, all that believe are Chriſts, and none can pray aright but believers, others do but babble over the words, we muſt pray in faith and leave all to God without our immoderate care, for <hi>Peter</hi> bids us caſt all our care upon God who cares for us.<note place="margin">learn to pray in fa<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>th without bab<g ref="char:EOLhyphen"/>bling.</note> 1 <hi>Pet.</hi> 5.7. And <hi>Paul</hi> admoniſheth us to be careful for nothing he means with immoderate care, <hi>but in every th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ng by Prayer and ſupplication with thank<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>giving, let your requeſts be made known unto God, Phil.</hi> 4.6. Not but that men may and ought to have a moderate care and leave the ſucceſs to God<g ref="char:punc">▪</g> 
+                  <hi>
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hat we may attend upon the Lord without diſtract<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>on,</hi> 1 <hi>Cor.</hi> 7.35. Thus we ſhould pray for daily Bread, or Bread for the day, without diſtraction or immoderate care, for the Iſraelites gathered Manna but for one day.</p>
+               <p>Alſo our Saviour Chriſt teacheth us <hi>that no man by care or t<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>king thought can add one Cubit unto his ſtature, therefore ſaith he take no thought ſaying, what ſhall we eat or what ſhall we drink, or wherewithall ſhall we be cloathed, for after all theſe things do unbelievers ſeek, and your heavenly Father to whom we pray for dai<g ref="char:EOLhyphen"/>ly Bread knoweth that ye have need of all theſe things, but ſeek ye firſt the Kingdom of God and his righteouſneſs and all theſe things ſhall be added unto you, they ſhall be caſt in as an overpluſh without your taking thought, as if he had ſaid I have taught you to pray for Bread for the day, take no thought for to morrow, to morrow ſhall take thought for the things of it ſelf, Math.</hi> 6.25. to 34.</p>
+               <p>Our Saviour Chriſt here comandeth us, to ſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ek firſt the Kingdom of God and his righteouſneſs, that is the righteouſneſs of Chriſt imputed, which is to be applyed by faith, but we have no promiſe that we ſhall find Gods Kingdom or his righteouſneſs in the uſe and practiſe of Cerimonies Traditions conſort of Church muſick or Coriſters,<note place="margin">there is no promiſe of Gods righteouſ<g ref="char:EOLhyphen"/>neſs in the uſe of Cerimonies.</note> ſeeing there is no Ordinance of Chriſts inſtitu<g ref="char:EOLhyphen"/>tion, but it tends to the edification of the hearers, but Church muſick and Coriſters doth but pleaſe the ear, and doth not edifie the multitude that hears it, therefore we think that it is no Ordinance of Chriſt, nor the actors are no officers of Chriſts in<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>titution in the Church of Chriſt, nor none of theſe is any way or means to obtain the Kingdom of God or his righteouſneſs.</p>
+               <p>Therefore if we would ſeek the Kingdom of God in the right way, we muſt ſeek it in the revealed will and word of God, and not in the deviſed forms and Traditions of men, for he is a tranſgreſſor of the firſt Command<g ref="char:EOLhyphen"/>ment, whoſe fear of God is taught by the precepts,<note place="margin">four Command<g ref="char:EOLhyphen"/>ments broken by the uſe of Ce<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>imonies in Gods worſhip.</note> C<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ri<g ref="char:EOLhyphen"/>monies
+<pb n="9" facs="tcp:30751:5"/>and Traditions of men, <hi>Iſ.</hi> 29.13. And he break<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the ſec<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>d C<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m<g ref="char:EOLhyphen"/>mandment, that changeth or corrupteth the worſhip of God in whol<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> part, <hi>Deu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi> 12.32. and <hi>Chap.</hi> 4. <hi>v.</hi> 2. And he breaks the third C<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mmand<g ref="char:EOLhyphen"/>ment that uſeth the name of God or any of his titles in any way or man<g ref="char:EOLhyphen"/>ner of worſhip not inſti<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uted by Chriſt, or in any Ordinance unreverently, which is done when Chriſts inſtitutions are mixed with mens precepts, and traditions in any part of his worſhip, and he breaks the fifth Commande<g ref="char:EOLhyphen"/>ment that for fear of men doth obſerve the precepts and Commandments of men, and regards not to do the Commandments of God, to worſhip him according to his own word and will, <hi>Acts</hi> 4.19. Whereas we are bound in Conſcience to ob<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y the inſtitutions of Chriſt and none other, touching the worſhip of God, though all men were offended with us for ſo doing, for all Doct<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ines pertai<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ing to the foundation and good eſtate of the Church, and the who<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e worſhip of God, are ſet down and recorded in the written word of God, 2 <hi>Tim</hi> 3 16.17,</p>
+               <p>And the excellency of the Church the Spouſe of Chriſt ſtands in her ſub<g ref="char:EOLhyphen"/>jection and obedience to Chriſt her Head and Huſband, according to his will and word, for as a Wife ought to ſubmit to the lawful commands of her Husband rather then to Strangers and Forreigners, ſo and much more ought the Church of believers, for all others though they be in the Church, they are not of the Church,<note place="margin">Chriſt ought to be obeyed rather then Stra<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>gers.</note> 1 <hi>John</hi> 2.19. therefore believers ought to ſubmit to the righteous Laws and inſtitutions of Chriſt their Head and Husband only, and not to the traditions, nor Ceremonies, nor precepts of Popes or Prelates, who are as Strangers and forraigners in reſpect of Chriſt and the higher that any man is exalted either in Church or Com<g ref="char:EOLhyphen"/>mon-wealth, the more careful they ſhould be in giving good ex mple in yeilding obedience to Chriſt, leſt by evil examp<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e, they prove to be like unſavoury ſalt, to be eſteemed of God, ſit for nothing but to be caſt upon the Dunghil to be trodden down of Swine.</p>
+            </div>
+            <div type="part">
+               <head>The fifth Petition, Forgive us our Debts or Treſp<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſſes, &amp;c.</head>
+               <p>In the former petition we pray for temporal b<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eſſings, and in this petiti<g ref="char:EOLhyphen"/>on, and the next we pray for ſpiritual bleſſings, and hence we are taught, that our care for our Souls ſhould be double to the care for our bodies, and the <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rder here ſet down is that we firſt truſt Gods providence for the things of <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>his life, for unleſs we can do that, we cannot reſt on Gods mercy for the <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ardon of our ſins, for he doth but deceive himſelf that thinks he doth be<g ref="char:EOLhyphen"/>ieve in God for the pardon of his ſins, and the Salvation of his Soul, and yet
+<pb n="10" facs="tcp:30751:6"/>diſtruſts Gods providence, for food and raiment, and things neceſſary for <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he body, <hi>for is not the life ſaith Chriſt more then meat, and the body more then raiment, Mat.</hi> 6.25.</p>
+               <p>Forgive us our debts, as a debt binds a man to make ſatiſfaction or elſe to go to Priſon, ſo our fins binds us to make ſatiſfaction to Gods Juſtice, or elſe to ſuffer eternal damnation, but this ſatiſfaction we cannot make in our own perſons but by our ſurety Jeſus Chriſt, who is called <hi>the Lord our Righteouſneſs, Jerem.</hi> 23 6. and <hi>Iſa.</hi> 45.24. <hi>In the Lord have I righteouſneſs and ſtrength. Therefore God ſo loved the World, that he ſent his only begotten Son, that whoſoever believeth in him, ſhould not periſh, but have everlaſting Life.</hi>
+                  <note place="margin">Chriſt only is our Righteouſneſs, and the alone ſatiſfier of Gods Juſtice.</note> 
+                  <hi>John</hi> 3.16. now to forgive ſins, is to have ſins covered or not imputed as <hi>Pſal.</hi> 32. 1 2. and ſins is covered and not imputed to elect believers, by the free Grace of God in accepting of that ſatiſfaction which Chriſt by his death and ſufferings gave to Gods juſtice in the behalf of believers, <hi>when God ſaw the travel of his Soul and was ſatiſfied, Iſaiah</hi> 53.11. Thus Chriſts righteouſneſs and ſatiſfaction is im<g ref="char:EOLhyphen"/>puted unto believers for their righteouſneſs and ſatiſfaction, when they do believe and by a particular faith apply the ſame unto themſelves, for all the good works in the world as ſome plead for, can never give ſatiſfaction to Gods divine juſtice for the leaſt ſin, but we muſt acknowledge the for<g ref="char:EOLhyphen"/>giveneſs of our ſins, and ſalvation of our Souls, to be of the free grace, mer<g ref="char:EOLhyphen"/>cy and favour of God without our deſert.</p>
+               <p>As we forgive them that treſpaſs againſt us, this is the ſecond part of the fifth Petition, and here we pray conditionally to be forgiven, as we forgive others that treſpaſs againſt us, and our Saviour Chriſt aſſureth us, that if we forgive not others their treſpaſſes according as we pray, <hi>neither will our Heavenly father forgive us, Mat.</hi> 6.14.15.</p>
+               <p>By this it is lamentable to conſider, how many thouſands not only of ig<g ref="char:EOLhyphen"/>norant people, but even ſuch as pretend to be teachers of others, who prays this prayer, and yet their hearts ſwells with mallice, envy back biting, and evil ſpeaking againſt others, epecially ſuch as differ from them in judgement,<note place="margin">Envious perſons pray for one thing and do the con<g ref="char:EOLhyphen"/>trary.</note> of the right way of worſhipping God, though perhaps they underſtand but little of the grounds and reaſons, why thoſe who they hate and de<g ref="char:EOLhyphen"/>ſpiſe deſcent from them, this is a raging and a reigning ſin, for while ſuch pray to be forgiven, as they forgive others, when their conſciences witneſs againſt them that they hate and envy others, ſo that in their praying they pray againſt themſelves, that i<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ff<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ad of <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>pacting a bleſſing in anſwer of their prayers they may expect a curſe, and
+<pb n="11" facs="tcp:30751:6"/>never to be pardoned without unfeigned repentance, being condemned by their own words and of their own Conſciences, <hi>for he that hateth his Brother is a murtherer, and ye know that no murtherer hath Eternal Life abiding in him,</hi> 1 <hi>John</hi> 3 15, and none are more forward in this wickedneſs, then thoſe who ignorantly do moſt pray or ſay this prayer, not underſtanding, or not ſeri<g ref="char:EOLhyphen"/>ouſly conſidering the extent and meaning of it.</p>
+               <p>Suppoſe thoſe men whom you ſo malligne were in an error, which was ne<g ref="char:EOLhyphen"/>ver yet proved againſt ſome ſort of them, ye that are ſtrong or think your ſelves ſo <hi>ought to bear the infirmities of the weak and not to pleaſe your ſelves,</hi> but to pleaſe others for their edification, for Chriſt pleaſed not himſelf, <hi>Rom.</hi> 15.1, 2, 3. And if any man be not ſo conformable in all things as ſome would have them, ye which are ſpiritual and would be called ſo, if ye be ſpi<g ref="char:EOLhyphen"/>ritual <hi>ye ought to reſtore ſuch a one in the ſpirit of meekneſs, and bear one anothers burthens,</hi> and ſo fulfill the Law of Chriſt, <hi>Gala.</hi> 6.1, 2, 3. And not lay bur<g ref="char:EOLhyphen"/>thens of fines, impriſonment or baniſhment upon them, for if you do, how can you pray that you may be forgiven, but as you forgive and not expect to pull down wrath and vengeance upon your ſelves, therefore if you be<g ref="char:EOLhyphen"/>lieve Scripture to be the word of God, which is no more then what the Devils believe and tremble, and if your Conſciences be not ſeared, ceaſe from your unmerciful perſecution and hatred, <hi>for he ſhall have judgement without mercy that hath ſhewed no mercy, James,</hi> 2.13. Therefore as ye expect that God for Chriſts ſake ſhould forgive you, ſo allſo do ye, for otherwiſe you will lead your ſelves into temptation, whereas in the next Petition ye pray that you may not be led into temptation, for thus God is mocked when they pray and practiſe contrary to what they pray.</p>
+            </div>
+            <div type="part">
+               <head>The ſixth Petition, Lead us not into temptation,</head>
+               <p>In the former Petition we pray for pardon of ſins, and becauſe forgiveneſs of ſins and grievous temptations are in ſepperable Companions in this Life, therefore in this, Petition we pray that we may not be led into temptation, that is let us not be inticed to ſins,<note place="margin">Many lead them<g ref="char:EOLhyphen"/>ſelves into tempta<g ref="char:EOLhyphen"/>tion.</note> the Apoſtle <hi>James</hi> ſaith that God temps no man he moves no man <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o ſin, but every man is tempted when he is drawn away of his own luſt and inticed <hi>James,</hi> 2.13.14. To be led into temptation then is to be overcome in temptations, or to be drawn away of our own luſt, and inticed, for many that pray this Prayer lead themſelves into temptation, for Chriſt ſheweth us the means of deliverance, his word and Ordinances in their purity according to his divine inſtitution but thoſe that will not obey, but choſe rather to follow the precepts, Cere<g ref="char:EOLhyphen"/>monies
+<pb n="12" facs="tcp:30751:7"/>and Traditions of men, theſe men lead themſelves into temp<g ref="char:EOLhyphen"/>tation, and pray againſt themſelves, as to the matter and manner of his worſhip</p>
+               <p>For Chriſt as he is King and governor of his Church, he doth exerciſe two prerogatives royal, which he will not impart to any other, neither in whole no in part, and that is firſt, to make Laws-for the government of his Church, for there is but one Law giver ſaith <hi>James,</hi> 4.12. And he is able to ſave ſuch as obey his laws, and to deſtroy all thoſe that dare oppoſe or preſume to b<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Check mate with him, to add their Ceremonies or Traditions, to his Laws or inſtitutions for the government of his Church, Chriſts ſecond prerogative royal is, to appoint and ordain what officers ſhall be in his Church now in Goſpel times, and as all Scripture is given by divine in<g ref="char:EOLhyphen"/>ſpiration, 2 <hi>Jam.</hi> 3.16. So God hath ſet down by the Pen men of holy Scripture in <hi>Eph.</hi> 4.11, 12. that Church officers were aſcention gifts, for when he aſcended up on high he gave gifts unto men <hi>v<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>z.</hi> he gave ſome Apoſtles, and ſome Prophets, and ſome Evangeliſts, and ſome Paſtors and Teachers, for the perfecting of the Saints, for the work of the Miniſtry, and for the edifying of the body of Chriſt, the ſame Church officers are alſo mentioned in the 1 <hi>Cor.</hi> 12.28. With this addition helps in government. That is ruling Elders, which ſome call Lay-Elders, and Deacons. But neither A<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ch Deacons, nor ſub Deacons, but Deacons to miniſter to the poor as in <hi>Act,</hi> 6.3. to <hi>v.</hi> 6. And theſe officers though inſtituted by the Apoſtles, we may r<gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>nally believe that they did it by direction from Chriſt, the forty days after <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> reſurection in which time he ſpake to his Apoſtles of the things pertaining to the Kingdom of God as in <hi>Acts.</hi> 1.2. And as they alſo were authorized and inſpired by the holy Ghoſt. 2 <hi>Tim.</hi> 3.16 And that none ſince them, have been ſo authorized.</p>
+               <p>And now ſeeing theſe are al the Church officers that Chriſt and his Apoſtles hath inſtituted and appointed in the new Teſtament for the perfect<g ref="char:EOLhyphen"/>ing of the Saints, for the work of the miniſtry, and for the edifying of the body of Chriſt, and if Chriſt whoſe prerogative royal it is to appoint Church officers, appointed theſe and none other, and ſaw them ſufficient for thoſe and; above named, <hi>Eph.</hi> 4.12. Then all others call them by what names or titles ſoever you will from the Pope to the Par<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>itor, they are ſuperflu<g ref="char:EOLhyphen"/>ous and vain uſurpers, and none of Chriſts Church officers, nor of his inſti<g ref="char:EOLhyphen"/>tution and appointment now then to worſhip God in any way or manner then he hath prrſcribed in his word, or by any other Church officers, then Chriſt you ſee hath appointed and ordained, and mix this Prayer with Ce<g ref="char:EOLhyphen"/>remonies; and forms of their own inventions, what is it but a mocking of God, being drawn away as <hi>Jame.</hi> ſaith of their own luſts and inticed for
+<pb n="13" facs="tcp:30751:7"/>by ends of pleaſure or profit, fear or favour, and ſo a leading of themſelves into temptation whil they think they pray againſt temptation, they pray a<g ref="char:EOLhyphen"/>gainſt themſelves to draw down Gods vengeance upon them, in ſtead of a bleſſing, becauſe in this Prayer they in words in the preſence of God, they ſeem to pray for that which they do not intend or purpoſe for to do namely, that Gods will may be done in Earth as it is in Heaven which if it be then muſt he be worſhiped according to his own inſtitutions, and not according to mens deviſings, and by ſuch Church officers as Chriſt hath inſtituted, and not men.</p>
+               <p>As Mr. <hi>Stilling fleet</hi> in his book of the Idolatry practiſed in the Church of <hi>Rome,</hi> ſaith Page 49. that Gods honour in his worſhip is not to be meaſured by the intentions of men, it being in the power of God, to determine in what way he will be worſhiped we are not to inquire what mens intentions are in their worſhip, but whether God will allow of ſuch a worſhip or no, for God<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> divine Law ſaith he is the rule of worſhip, whatever the intention of the Perſon be, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>or our worſhip is not to be guided by our own fancies ſaith he, but by the will of God, Page 98. for we affirm ſaith he that we ought not only perform the offices of Religion out of obedience to his divine com<g ref="char:EOLhyphen"/>mands, but with due veneration of his majeſty, with ſubjection of our ſouls to his ſupreme authority about theſe things. Page 102 did the Heathen ſaith he uſe ſolemn Ceremonies of making any capable of divine worſhip, ſo do the Roman Church, &amp;c. Page 139.</p>
+               <p>It is agreed he ſaith on both ſides, that the Scriptures do contain in them the unqueſtionable will of that God whom we are bound to ſerve, and it being the end of devotion, as it ought to be of our lives to ſerve him, what is there the mind of any who ſincerely deſire to ſerve God, can be more in<g ref="char:EOLhyphen"/>quiſitive after, or deſire to be ſatiſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ied in then the rules wch God himſelf hath given for his own ſervice, becauſe it is ſo eaſie a matter for men to miſtake, in the ways they chuſe to ſerve him in, page 188. 189. for the Goſpel doth teach to love all men, and God above all, to believe in Chriſt, and to obey his commands and page 193. and ſpeaking of the Scriptures, he ſaith, <hi>that they who underſtand Greek and Latine there is ten times more fear of them then of the common people,</hi> he meaned by falſly applying it to ſerve their own ends and intereſts, f<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t all men see that none are ſo capable of doing miſcheif there by as men of greateſt wit and learning, and that have the faireſt appearance of piety to the world, page 194. 195. thus we deſire, and it is the duty of every one to worſhip and ſerve God, according to Gods holy rules and in<g ref="char:EOLhyphen"/>ſtitutions in the New Teſtament, for to worſhip God by a tedious Ceremo<g ref="char:EOLhyphen"/>nious way of external devotion, it is he ſaith as dull and as cold as the earth it ſelf, page 284.</p>
+               <pb n="14" facs="tcp:30751:8"/>
+               <p>Now as the ſecond Commandment is tranſgreſſed in making an Image, either of the true God, or of a feigned God to worſhip God by it. <hi>Deut.</hi> 4.15.16. <hi>&amp;c.</hi> So alſo it is tranſgreſſed, by changing the worſhip of God in whole or in part, <hi>Deut.</hi> 12.32. and by worſhipping God in a formal way with lip ſervice, and in praying without knowledge of the meaning of the prayer, or to worſhip God in any other manner then he hath preſcribed in his word, eſpecially the New Teſtament, or with any other Church Officers then Chriſt hath appointed, for all others are but Images of true worſhip, or true prayer, or true Officers, they all come within the compaſs of worſhip<g ref="char:EOLhyphen"/>ping God by an Image or repreſentation of Gods true Goſpel worſhip and ſervice, and he breaks the fifth Commandement that obeys men, rather then God, by yeilding to mens precepts more then Gods, <hi>Acts</hi> 4.19. He alſo breaks the firſt Commandement ſaith Mr. <hi>Perkins, that ſca<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s God by the pre<g ref="char:EOLhyphen"/>cepts and traditions of men. Iſa.</hi> 29.13.</p>
+            </div>
+            <div type="part">
+               <head>But deliver us from evil.</head>
+               <p>That is, that God would free us from the power of the fleſh the world, and the Devil, for it is a hard and difficult thing to be delivered from theſe ſnares, therefore we have great need to pray againſt them, and that we may be delivered from them, for the Apoſtle ſaith, <hi>that the whole world lyeth in wickedneſs,</hi> 1 <hi>John.</hi> 5.19. But when a man is delivered from evil he is not led into temptation, the cauſe being taken away, the effect ceaſeth.</p>
+            </div>
+            <div type="part">
+               <head>For thine is the Kingdom the Power and the Glory for ever.</head>
+               <p>Theſe words are a reaſon of all the former ſix petitions, that ſeeing all power and glory is Gods, therefore we are incouraged to ask all things needful and lawful to be asked, of God, who hath all power to give us what we ask according to his will, 1 <hi>John</hi> 5.14. And it is for his glory that God do give what he hath promiſed to thoſe that ask in Faith, and by Faith de<g ref="char:EOLhyphen"/>pend upon him for the ſame, for all earthly Kings, and men on earth what<g ref="char:EOLhyphen"/>ſoever good thing they have, it is the gift of God, for all things are his in Heaven, and in Earth, and every man muſt give an account of his ſteward<g ref="char:EOLhyphen"/>ſhip for what God intruſteth him with for all is Gods, as in 1 <hi>Chron.</hi> 29.11. <hi>Thine O Lord is the greatneſs, and the power, and the glory, and the victory, and the Majeſty, and all that is in Heaven and Earth is thine, thine is the Kingdom O Lord, and thou art exalted as head over all, and thou raigneſt over all,</hi> therefore neither Pope nor Prelate ſhould raign by their precepts as Lord over Gods heritage, 1 <hi>Pet.</hi> 5.3. For all glory is due to God, and all invocation and
+<pb n="15" facs="tcp:30751:8"/>prayer ought to be made to God, according to his will and word.</p>
+               <p>And the ſtability of all Kingdomes ſtands in yeilding obedience to the Goſ<g ref="char:EOLhyphen"/>pel of Chriſt according to Chriſts rules and inſtitutions, and not according to mens traditions and Ceremonies, <hi>Solomon</hi> ſaith, <hi>Take away the wicked from before the King, and his throne ſhall be eſtabliſhed in Righteouſneſs,</hi> Prov. 25.5. <hi>But a man ſhall not be eſtabliſhed by wickedneſs, but the root of the Righteous ſhall not be moved.</hi> Prov. 12.3. For Gods Kingdom is moſt ſure and ſtable, and when the Goſpel is obeyed in its purity in any Kingdom, that Kingdom is as it were founded in the Kingdom of God, and what <hi>Paul</hi> ſets down of the uſe of meat and drink, that they are ſanctified by the word of God and prayer, muſt be extended to all the Ordinances of God, the word of God muſt be our rule and ſquare, both as to the worſhip of God, and as to our Chriſtian Converſation among men, and not the precepts nor traditions of Popes nor Prelates.</p>
+               <p>Amen. This word Amen, is not only a bare aſſent to what the Miniſter or any other do pray for, but it is alſo a teſtification of our faith, whereby we believe, that which we have prayed for ſhall be granted, as our Saviour ſaid, <hi>if two of you ſhall agree on Earth touching any thing that ye ſhall ask, it ſhall be done for them of my Father which is in Heaven, Mat.</hi> 18.19.</p>
+               <p>Well ſeeing it is thus as you have heard, then who can imagine, what woe is due unto them, who perſecute, hate, and deſpiſe, ſuch as would willingly worſhip God according to his holy inſtitutions in his word, and not accord<g ref="char:EOLhyphen"/>ing to mens deviſes in Ceremonies and Traditions, &amp; the like, and upon this account, they that deſcent in judgement and practice from others, for which they think we treſpaſs againſt them, the which we are bound to do rather then to treſpaſs againſt God, and the light of our Conſciences whatſoever we ſuffer, but thoſe who perſecute and hate us for this, and yet dare pray this prayer, ſo often as they pray to be forgiven, but as they forgive them that treſpaſs againſt them, ſo often they pray againſt themſelves, that the ſame miſchief may fall upon themſelves, which they deſire may befall others, for God knows the diſſimulation of their hearts, and their own Conſciences knows that they do not forgive, therefore, if they will not forgive thoſe that treſpaſs againſt them, it were better for them to give over praying, leaſt thereby they increaſe their own damnation, <hi>therefore if thou bring thy gifs to the alter and there remembreſt that thy brother hath ought againſt thee, leave there thy gift before the altar, and be firſt reconciled to thy brother, and then come and of<g ref="char:EOLhyphen"/>fer thy gift ſaith our Saviour Chriſt,</hi> to whom be glory and praiſe for ever and ever Amen. <hi>Mat.</hi> 5.23 24.</p>
+               <pb facs="tcp:30751:9" rendition="simple:additions"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
